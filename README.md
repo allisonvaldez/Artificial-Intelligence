@@ -3,5 +3,7 @@ Tracking my learning AI
 
 ## MACHINE LEARNING
 
-## Books
+### Books
     * HOML
+
+### Projects
