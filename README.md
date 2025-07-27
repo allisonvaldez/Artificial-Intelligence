@@ -1,5 +1,7 @@
-# Machine Learning
-Tracking my learning Machine Learning 
+# ARTIFICIAL INTELLIGENCE
+Tracking my learning AI
+
+## MACHINE LEARNING
 
 ## Books
     * HOML
